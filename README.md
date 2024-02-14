@@ -49,6 +49,8 @@ Resolve Merge Conflicts (if any):
 If there are any merge conflicts, WebStorm will prompt you to resolve them.
 Open the affected files, resolve the conflicts, and save the changes.
 After resolving conflicts, commit the changes again and push them to GitHub.
+
+
 Part 2: Glossary
 Branch: A parallel version of a repository that diverges from the main line of development, allowing you to work on different features or fixes without affecting the main codebase.
 Clone: To create a copy of a repository that exists on a remote server, such as GitHub, onto your local machine.
@@ -62,6 +64,9 @@ Push: To upload local repository changes to a remote repository, such as GitHub.
 Pull: To fetch changes from a remote repository and merge them into your local branch.
 Remote: A version of a repository hosted on a server, such as GitHub, that can be accessed and manipulated by multiple users.
 Repository: A storage location where your project's files and revision history are stored, often hosted on a remote server like GitHub.
+
+
+
 References
 JetBrains. (n.d.). WebStorm: The Smartest JavaScript IDE. Retrieved from https://www.jetbrains.com/webstorm/
 Git - Downloads. (n.d.). Retrieved from https://git-scm.com/downloads
